@@ -1,0 +1,92 @@
+.float-end{
+    height: 800px;
+}
+
+.container {
+    display: inline-block;
+    text-align: center;
+}
+.fi1,.fi2,.fi3{
+    background-image: url("../fi1.png");
+    width:400px;
+    height:400px;
+    background-size: cover;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.fi2{
+    background-image: url("../fi2.png");
+    
+}
+.fi3{
+    background-image: url("../fi3.png");
+    
+
+}
+.fi4,.fi5,.fi6,.fi7,.fi8{
+    background-image: url("../fi4.png");
+    width:200px;
+    height:200px;
+    background-size: cover;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+.fi5{
+    background-image: url("../fi5.png");
+    
+
+
+}
+.fi6{
+    background-image: url("../fi6.png");
+    
+
+
+}
+.fi7{
+    background-image: url("../fi7.png");
+   
+}
+.fi8{
+    background-image: url("../fi8.png");
+   
+
+}
+.fi11 {
+    display: flex;
+    justify-content: center; /* Optional: center the image container */
+    align-items: center; /* Optional: center the image container vertically */
+    margin: 20px; /* Optional: add margin around the container */
+}
+.fi11 img {
+    width: 500px; /* Adjust the width */
+    height: 800px; /* Adjust the height */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image covers the container */
+}
+.d1,.d2, .d3, .d4,.d5{
+    background-image: url("../d1.png");
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-size: cover;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.d2{
+    background-image: url("../d2.png");
+    
+}
+.d3{
+    background-image: url("../d3.png");
+    
+}
+.d4{
+    background-image: url("../d4.png");
+    
+}
+.d5{
+    background-image: url("../d5.png");
+    
+}
